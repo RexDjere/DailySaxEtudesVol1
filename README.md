@@ -2,7 +2,7 @@
 
 Chapters:
 * 01: Scales
-        * Week 1
+   * Week 1
 * 02: Aprpeggios
 * 03: Chromatics
 * 04: Combined Scales, Aprpeggios, and Chromatics
