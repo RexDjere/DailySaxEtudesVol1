@@ -1,6 +1,6 @@
 # Saxtalk.com Daily Saxophone Etude Volume 1
 
-##Chapters:
+## Chapters:
 * 01: Scales
    * Week 00: Fundamentals
    * Week 01: Modes and Scales
