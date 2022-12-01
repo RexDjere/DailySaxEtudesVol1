@@ -3,6 +3,7 @@
 ## Chapters:
 ### 01: Scales
    * Week 00: Fundamentals
+      *Test
    * Week 01: Modes and Scales
    * Week 02: Modes and Scales
    * Week 03: Modes and Scales
