@@ -1,4 +1,4 @@
-# Saxtalk.com Daily Saxophone Etude Volume 1
+# Saxtalk.com Daily Saxophone Etudes Volume 1
 
 ## Chapters:
 ### 01: Scales
