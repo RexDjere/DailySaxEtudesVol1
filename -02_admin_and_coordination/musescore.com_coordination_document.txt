@@ -1,15 +1,13 @@
 Chapters:
-01: Scales (4 Weeks)
-02: Arpeggios (8 Weeks??)
-03: Chromatics (8 weeks??)
-04: Combined Scales, Arpeggios, and Chromatics (8 Weeks??)
-05: Rhythm Changes (8 Weeks??)
-06: Various Chord Changes (16 Weeks??)
+00: Scales (4 Weeks)
+01: Arpeggios (8 Weeks??)
+02: Chromatics (8 weeks??)
+03: Combined Scales, Arpeggios, and Chromatics (8 Weeks??)
+04: Rhythm Changes (8 Weeks??)
+05: Various Chord Changes (16 Weeks??)
 
-
-
-
-Wednesday 06C: Augmented Seventh Arpeggios
+Sample Musescore.com Etude Title:
+Thursday 06D: Augmented Arpeggios
 
 Week 00:
 Monday: Reading notes in all registers: https://musescore.com/user/18100066/scores/8791206
@@ -19,15 +17,12 @@ Thursday: Sharps – Cycle of Fifths: https://musescore.com/user/18100066/scores
 Friday: Flats – Cycle of Fifths: https://musescore.com/user/18100066/scores/8791734
 
 
-
 Week01:
 Monday: Aeolian modes/Minor Blues scales: https://musescore.com/user/18100066/scores/8596574
 Tuesday: Locrian modes/Major Blues scales: https://musescore.com/user/18100066/scores/8606333
 Wednesday: Ionian modes/Whole Tone scales: https://musescore.com/user/18100066/scores/8610158
 Thursday: Dorian modes/Minor Pentatonic scales: https://musescore.com/user/18100066/scores/8629712
 Friday: Phrygian modes/Locrian modes: https://musescore.com/user/18100066/scores/8647794
-
-
 
 
 Week 02:
@@ -62,8 +57,8 @@ Week 06:
 Monday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9075509  
 Tuesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9088754 
 Wednesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9090773  
-Thursday: coming soon
-Friday: coming soon
+Thursday: Augmented Arpeggios: https://musescore.com/user/18100066/scores/9101873
+Friday: Augmented Arpeggios: https://musescore.com/user/18100066/scores/9102074
 
 To Week 00: https://musescore.com/user/18100066/scores/8791206
 To Week 01: https://musescore.com/user/18100066/scores/8596574
