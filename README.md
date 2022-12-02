@@ -1,17 +1,17 @@
 # Saxtalk.com Daily Saxophone Etudes Volume 1
 
 ## Chapters:
-### 01: Scales
+### 00: Fundamental Scales and Modes
    * Week 00: Fundamentals
    * Week 01: Modes and Scales
    * Week 02: Modes and Scales
    * Week 03: Modes and Scales
-### 02: Arpeggios
+### 01: Arpeggios
    * Week 04: Major Arpeggios
    * Week 05: Minor Arpeggios
    * Week 06: Augmented Arpeggios
-### 03: Chromatics
-### 04: Combined Scales, Aprpeggios, and Chromatics
-### 05: Rhythm Changes
-### 06: Various Chord Changes
+### 02: Chromatics
+### 03: Combined Scales, Aprpeggios, and Chromatics
+### 04: Rhythm Changes
+### 05: Various Chord Changes
 
