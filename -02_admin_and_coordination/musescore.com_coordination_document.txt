@@ -7,7 +7,7 @@
 	05: Various Chord Changes (16 Weeks??)
 
 // Sample Musescore.com Etude Title:
-Thursday 06D: Augmented Arpeggios
+	Thursday 06D: Augmented Arpeggios
 
 // Chapter 00: Scales
 	Week 00:
