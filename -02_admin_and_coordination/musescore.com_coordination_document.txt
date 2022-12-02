@@ -7,7 +7,7 @@
 	05: Various Chord Changes (16 Weeks??)
 
 // Sample Musescore.com Etude Title:
-	Thursday 06D: Augmented Arpeggios
+	Monday 07A: Dominant Seventh Arpeggios
 
 // Chapter 00: Fundamental Scales and Modes
 	Week 00:
@@ -59,12 +59,21 @@
 		Wednesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9090773  
 		Thursday: Augmented Arpeggios: https://musescore.com/user/18100066/scores/9101873
 		Friday: Augmented Arpeggios: https://musescore.com/user/18100066/scores/9102074
+		
+	Week 07: 
+		Monday: Dominant Seventh Arpeggios: https://musescore.com/user/18100066/scores/9104495
+		Tuesday: Augmented Seventh Arpeggios: coming soon
+		Wednesday: Augmented Seventh Arpeggios: coming soon 
+		Thursday: Augmented Arpeggios: coming soon
+		Friday: Augmented Arpeggios: coming soon
 
 // Musescore.com Link to Weeks
-	To Week 00: https://musescore.com/user/18100066/scores/8791206
-	To Week 01: https://musescore.com/user/18100066/scores/8596574
-	To week 02: https://musescore.com/user/18100066/scores/8667951
-	To week 03: https://musescore.com/user/18100066/scores/8924385
-	To week 04: https://musescore.com/user/18100066/scores/9018581
-	To Week 05: https://musescore.com/user/18100066/scores/9049883
-	To Week 06: https://musescore.com/user/18100066/scores/9075509
+To Week 00: https://musescore.com/user/18100066/scores/8791206
+To Week 01: https://musescore.com/user/18100066/scores/8596574
+To week 02: https://musescore.com/user/18100066/scores/8667951
+To week 03: https://musescore.com/user/18100066/scores/8924385
+To week 04: https://musescore.com/user/18100066/scores/9018581
+To Week 05: https://musescore.com/user/18100066/scores/9049883
+To Week 06: https://musescore.com/user/18100066/scores/9075509
+To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
+	
