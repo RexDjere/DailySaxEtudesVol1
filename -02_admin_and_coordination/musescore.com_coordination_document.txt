@@ -1,5 +1,5 @@
 // Chapters:
-	00: Scales (4 Weeks: Weeks 00-03)
+	00: Fundamental Scales and Modes (4 Weeks: Weeks 00-03)
 	01: Arpeggios (8 Weeks: Weeks 04-??)
 	02: Chromatics (8 weeks??)
 	03: Combined Scales, Arpeggios, and Chromatics (8 Weeks??)
@@ -9,7 +9,7 @@
 // Sample Musescore.com Etude Title:
 	Thursday 06D: Augmented Arpeggios
 
-// Chapter 00: Scales
+// Chapter 00: Fundamental Scales and Modes
 	Week 00:
 		Monday: Reading notes in all registers: https://musescore.com/user/18100066/scores/8791206
 		Tuesday: Sharps: https://musescore.com/user/18100066/scores/8791608
@@ -46,7 +46,6 @@
 		Thursday: Major Seventh Arpeggios: https://musescore.com/user/18100066/scores/9019889
 		Friday: Major Arpeggios: https://musescore.com/user/18100066/scores/9023438
 		
-
 	Week 05: 
 		Monday: Minor Seventh Arpeggios: https://musescore.com/user/18100066/scores/9049883  
 		Tuesday: Minor Seventh Arpeggios: https://musescore.com/user/18100066/scores/9055454
