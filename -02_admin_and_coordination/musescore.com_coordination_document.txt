@@ -7,7 +7,7 @@
 	05: Various Chord Changes (16 Weeks??)
 
 // Sample Musescore.com Etude Title:
-	Monday 07A: Dominant Seventh Arpeggios
+	Tuesday 07B: Augmented Seventh Arpeggios
 
 // Chapter 00: Fundamental Scales and Modes
 	Week 00:
@@ -62,7 +62,7 @@
 		
 	Week 07: 
 		Monday: Dominant Seventh Arpeggios: https://musescore.com/user/18100066/scores/9104495
-		Tuesday: Augmented Seventh Arpeggios: coming soon
+		Tuesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9114003
 		Wednesday: Augmented Seventh Arpeggios: coming soon 
 		Thursday: Augmented Arpeggios: coming soon
 		Friday: Augmented Arpeggios: coming soon
@@ -76,4 +76,7 @@ To week 04: https://musescore.com/user/18100066/scores/9018581
 To Week 05: https://musescore.com/user/18100066/scores/9049883
 To Week 06: https://musescore.com/user/18100066/scores/9075509
 To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
+	Done:
+		Week 00
+	
 	
