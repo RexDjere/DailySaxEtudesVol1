@@ -64,7 +64,7 @@
 		Monday: Dominant Seventh Arpeggios: https://musescore.com/user/18100066/scores/9104495
 		Tuesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9114003
 		Wednesday: Augmented Seventh Arpeggios: coming soon 
-		Thursday: Augmented Arpeggios: coming soon
+		Thursday: Major Seventh Arpeggios: https://musescore.com/user/18100066/scores/9122004
 		Friday: Augmented Arpeggios: coming soon
 
 // Musescore.com Link to Weeks
