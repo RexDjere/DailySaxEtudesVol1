@@ -7,7 +7,7 @@
 	05: Various Chord Changes (16 Weeks??)
 
 // Sample Musescore.com Etude Title:
-	Wednesday 07C: Dominant Seventh Arpeggios
+	Friday 07E: Mixed Seventh Loops in Fourths - Rex Djere
 
 // Chapter 00: Fundamental Scales and Modes
 	Week 00:
@@ -65,7 +65,7 @@
 		Tuesday: Augmented Seventh Arpeggios: https://musescore.com/user/18100066/scores/9114003
 		Wednesday: Dominant Seventh Arpeggios: https://musescore.com/user/18100066/scores/9122022
 		Thursday: Major Seventh Arpeggios: https://musescore.com/user/18100066/scores/9122004
-		Friday: Augmented Arpeggios: coming soon
+		Friday: Mixed Seventh Loops in Fourths: https://musescore.com/user/18100066/scores/9171426
 
 // Musescore.com Link to Weeks
 To Week 00: https://musescore.com/user/18100066/scores/8791206
