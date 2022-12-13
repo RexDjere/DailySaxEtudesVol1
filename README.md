@@ -10,6 +10,8 @@
    * Week 04: Major Arpeggios
    * Week 05: Minor Arpeggios
    * Week 06: Augmented Arpeggios
+   * Week 07: Dominant, Augmented and Major Arpeggios
+   * Week 08: Mixed Arpeggios
 ### 02: Chromatics
 ### 03: Combined Scales, Aprpeggios, and Chromatics
 ### 04: Rhythm Changes
