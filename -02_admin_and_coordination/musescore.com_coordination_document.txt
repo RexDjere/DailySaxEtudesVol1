@@ -7,7 +7,7 @@
 	05: Various Chord Changes (16 Weeks??)
 
 // Sample Musescore.com Etude Title:
-	Friday 07E: Mixed Seventh Loops in Fourths - Rex Djere
+	Tuessday 08B: Mixed Seventh Loops in Fourths - 2nd Octave - Rex Djere
 
 // Chapter 00: Fundamental Scales and Modes
 	Week 00:
@@ -66,7 +66,36 @@
 		Wednesday: Dominant Seventh Arpeggios: https://musescore.com/user/18100066/scores/9122022
 		Thursday: Major Seventh Arpeggios: https://musescore.com/user/18100066/scores/9122004
 		Friday: Mixed Seventh Loops in Fourths: https://musescore.com/user/18100066/scores/9171426
+		
+	Week 08: 
+		Monday: Mixed Arpeggios: https://musescore.com/user/18100066/scores/9223860
+		Tuesday: Mixed Seventh Loops in Fourths - 2nd Octave: https://musescore.com/user/18100066/scores/9226724
+		Wednesday: coming soon
+		Thursday: coming soon
+		Friday: coming soon
 
+
+
+To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
+	Done:
+		Week 00
+		Week 01
+		Week 02
+		Week 03
+		Week 04:
+		Week 05:
+		Week 06:
+		
+			
+			
+			
+To Week 08: https://musescore.com/user/18100066/scores/9223860 (TODO: Finish adding this to all etudes)
+	Done:
+		Week 07:
+		Week 00:
+		Week 01:
+		Week 02:
+	
 // Musescore.com Link to Weeks
 To Week 00: https://musescore.com/user/18100066/scores/8791206
 To Week 01: https://musescore.com/user/18100066/scores/8596574
@@ -74,12 +103,10 @@ To week 02: https://musescore.com/user/18100066/scores/8667951
 To week 03: https://musescore.com/user/18100066/scores/8924385
 To week 04: https://musescore.com/user/18100066/scores/9018581
 To Week 05: https://musescore.com/user/18100066/scores/9049883
-To Week 06: https://musescore.com/user/18100066/scores/9075509
-To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
-	Done:
-		Week 00
-		Week 01
-		Week 02
+To Week 06: https://musescore.com/user/18100066/scores/9075509		
+To Week 07: https://musescore.com/user/18100066/scores/9104495
+To Week 08: https://musescore.com/user/18100066/scores/9223860
+		
 		
 	
 	
