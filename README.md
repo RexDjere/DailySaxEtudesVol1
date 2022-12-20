@@ -2,7 +2,7 @@
 
 ## Chapters:
 ### 00: Fundamental Scales and Modes
-   * Week 00: Fundamentals
+   * Week 00: [Fundamentals](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/00_week) 
    * Week 01: Modes and Scales
    * Week 02: Modes and Scales
    * Week 03: Modes and Scales
