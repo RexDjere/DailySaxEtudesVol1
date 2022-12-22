@@ -71,8 +71,8 @@
 		Monday: Mixed Arpeggios: https://musescore.com/user/18100066/scores/9223860
 		Tuesday: Mixed Seventh Loops in Fourths - 2nd Octave: https://musescore.com/user/18100066/scores/9226724
 		Wednesday: Ninth Arpeggios: https://musescore.com/user/18100066/scores/9252718
-		Thursday: coming soon
-		Friday: coming soon
+		Thursday: Major Triad Aeolian Trace: https://musescore.com/user/18100066/scores/9256195
+		Friday: Minor Triad Aeolian Trace: https://musescore.com/user/18100066/scores/9256471
 
 
 
@@ -85,6 +85,7 @@ To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish add
 		Week 04:
 		Week 05:
 		Week 06:
+		Week 08:
 		
 			
 			
@@ -95,6 +96,11 @@ To Week 08: https://musescore.com/user/18100066/scores/9223860 (TODO: Finish add
 		Week 00:
 		Week 01:
 		Week 02:
+		Week 03:
+		Week 04:
+		Week 05:
+		Week 06:
+		
 	
 // Musescore.com Link to Weeks
 To Week 00: https://musescore.com/user/18100066/scores/8791206
@@ -106,6 +112,11 @@ To Week 05: https://musescore.com/user/18100066/scores/9049883
 To Week 06: https://musescore.com/user/18100066/scores/9075509		
 To Week 07: https://musescore.com/user/18100066/scores/9104495
 To Week 08: https://musescore.com/user/18100066/scores/9223860
+
+
+Implemented Ideas		Date		Etude
+Major Triad Aeolian Trace	20221222	08D
+Minor Triad Aeolian Trace	20221222	08E
 		
 		
 	
