@@ -77,7 +77,7 @@
 	Week 09: 
 		Monday: Augmented Triad Aeolian Trace: https://musescore.com/user/18100066/scores/9268624
 		Tuesday: 4-Round Major Seventh Chord Locrian Trace: https://musescore.com/user/18100066/scores/9282598
-		Wednesday: coming soon
+		Wednesday: Major Seventh Ionian Trace - Flats: https://musescore.com/user/18100066/scores/9341563
 		Thursday: coming soon
 		Friday: coming soon
 
@@ -131,11 +131,7 @@ To Week 09: https://musescore.com/user/18100066/scores/9268624
 
 
 
-Implemented Ideas				Date		Etude
-Major Triad Aeolian Trace			20221222	08D
-Minor Triad Aeolian Trace			20221222	08E
-Augmented Triad Aeolian Trace			20221223	09A
-4-Round Major Seventh Chord Locrian Trace	20221224	09B
+
 		
 		
 	
