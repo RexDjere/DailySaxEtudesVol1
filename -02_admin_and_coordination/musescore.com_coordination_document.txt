@@ -80,6 +80,14 @@
 		Wednesday: Major Seventh Ionian Trace - Flats: https://musescore.com/user/18100066/scores/9341563
 		Thursday: Major Seventh Ionian Trace - Sharps: https://musescore.com/user/18100066/scores/9341674
 		Friday: Dorian Ninth Traces - Sharps: https://musescore.com/user/18100066/scores/9353989
+	
+	Week 09: 
+		Monday: Reading major triads in all registers - sharps: https://musescore.com/user/18100066/scores/9364315
+		Tuesday: coming soon
+		Wednesday: coming soon
+		Thursday: coming soon
+		Friday: coming soon	
+		
 
 
 To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
@@ -115,6 +123,16 @@ To Week 09: https://musescore.com/user/18100066/scores/9268624
 		week 03:
 		Week 04:
 		Week 05:
+		Week 06:
+		Week 07:
+		Week 08:
+		
+To Week 10: https://musescore.com/user/18100066/scores/9364315
+	Done:
+		Week 06:
+		Week 07:
+		Week 08:
+		Week 09:
 		
 	
 // Musescore.com Link to Weeks
@@ -128,6 +146,7 @@ To Week 06: https://musescore.com/user/18100066/scores/9075509
 To Week 07: https://musescore.com/user/18100066/scores/9104495
 To Week 08: https://musescore.com/user/18100066/scores/9223860
 To Week 09: https://musescore.com/user/18100066/scores/9268624
+To Week 10: https://musescore.com/user/18100066/scores/9364315
 
 
 
