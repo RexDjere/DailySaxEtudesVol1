@@ -85,7 +85,7 @@
 		Monday: Reading major triads in all registers - sharps: https://musescore.com/user/18100066/scores/9364315
 		Tuesday: Dorian Ninth Traces - Flats: https://musescore.com/user/18100066/scores/9375157
 		Wednesday: Jumps and Dives - 3 Rounds: https://musescore.com/user/18100066/scores/9376240
-		Thursday: coming soon
+		Thursday: Reading major triads in all registers - flats: https://musescore.com/user/18100066/scores/9383518
 		Friday: coming soon	
 		
 
@@ -100,6 +100,8 @@ To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish add
 		Week 05:
 		Week 06:
 		Week 08:
+		Week 09:
+		Week 10:
 		
 			
 			
@@ -114,6 +116,7 @@ To Week 08: https://musescore.com/user/18100066/scores/9223860 (TODO: Finish add
 		Week 04:
 		Week 05:
 		Week 06:
+		Week 10:
 		
 To Week 09: https://musescore.com/user/18100066/scores/9268624
 	Done:
@@ -126,6 +129,7 @@ To Week 09: https://musescore.com/user/18100066/scores/9268624
 		Week 06:
 		Week 07:
 		Week 08:
+		Week 10:
 		
 To Week 10: https://musescore.com/user/18100066/scores/9364315
 	Done:
@@ -133,6 +137,7 @@ To Week 10: https://musescore.com/user/18100066/scores/9364315
 		Week 07:
 		Week 08:
 		Week 09:
+		Week 00:
 		
 	
 // Musescore.com Link to Weeks
