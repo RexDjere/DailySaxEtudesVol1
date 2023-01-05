@@ -88,6 +88,13 @@
 		Thursday: Reading major triads in all registers - flats: https://musescore.com/user/18100066/scores/9383518
 		Friday: Melodic Arpeggios Etude 1 in first 4 Keys: https://musescore.com/user/18100066/scores/9387865
 		
+		Week 11: 
+		Monday: Melodic Arpeggios Etude 1 in final 8 Keys: https://musescore.com/user/18100066/scores/9397417
+		Tuesday: coming soon
+		Wednesday: coming soon
+		Thursday: coming soon
+		Friday: coming soon
+		
 
 
 To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
@@ -138,6 +145,11 @@ To Week 10: https://musescore.com/user/18100066/scores/9364315
 		Week 08:
 		Week 09:
 		Week 00:
+		Week 01:
+		
+To Week 11: https://musescore.com/user/18100066/scores/9397417
+	Done:
+		Week 01:
 		
 	
 // Musescore.com Link to Weeks
@@ -152,6 +164,7 @@ To Week 07: https://musescore.com/user/18100066/scores/9104495
 To Week 08: https://musescore.com/user/18100066/scores/9223860
 To Week 09: https://musescore.com/user/18100066/scores/9268624
 To Week 10: https://musescore.com/user/18100066/scores/9364315
+To Week 11: https://musescore.com/user/18100066/scores/9397417
 
 
 
