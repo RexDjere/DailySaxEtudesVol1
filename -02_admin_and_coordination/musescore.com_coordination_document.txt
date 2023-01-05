@@ -146,10 +146,17 @@ To Week 10: https://musescore.com/user/18100066/scores/9364315
 		Week 09:
 		Week 00:
 		Week 01:
+		Week 02:
+		Week 03:
+		Week 04:
 		
 To Week 11: https://musescore.com/user/18100066/scores/9397417
 	Done:
 		Week 01:
+		Week 10:
+		Week 02:
+		Week 03:
+		Week 04:
 		
 	
 // Musescore.com Link to Weeks
