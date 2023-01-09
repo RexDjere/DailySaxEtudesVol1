@@ -95,68 +95,18 @@
 		Thursday: Swingin' in 5/4: https://musescore.com/user/18100066/scores/9422725
 		Friday: coming soon
 		
-
-
-To Week 07: https://musescore.com/user/18100066/scores/9104495 (TODO: Finish adding this to all etudes)
-	Done:
-		Week 00
-		Week 01
-		Week 02
-		Week 03
-		Week 04:
-		Week 05:
-		Week 06:
-		Week 08:
-		Week 09:
-		Week 10:
-		
-			
-			
-			
-To Week 08: https://musescore.com/user/18100066/scores/9223860 (TODO: Finish adding this to all etudes)
-	Done:
-		Week 07:
-		Week 00:
-		Week 01:
-		Week 02:
-		Week 03:
-		Week 04:
-		Week 05:
-		Week 06:
-		Week 10:
-		
-To Week 09: https://musescore.com/user/18100066/scores/9268624
-	Done:
-		Week 00:
-		Week 02:
-		Week 01:
-		week 03:
-		Week 04:
-		Week 05:
-		Week 06:
-		Week 07:
-		Week 08:
-		Week 10:
-		
-To Week 10: https://musescore.com/user/18100066/scores/9364315
-	Done:
-		Week 06:
-		Week 07:
-		Week 08:
-		Week 09:
-		Week 00:
-		Week 01:
-		Week 02:
-		Week 03:
-		Week 04:
-		
 To Week 11: https://musescore.com/user/18100066/scores/9397417
 	Done:
-		Week 01:
-		Week 10:
+		Week 01:	
 		Week 02:
 		Week 03:
 		Week 04:
+		Week 05:
+		Week 06:
+		Week 07:
+		Week 08:
+		Week 09:
+		Week 10:
 		
 	
 // Musescore.com Link to Weeks
