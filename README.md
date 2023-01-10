@@ -1,5 +1,11 @@
 # Saxtalk.com Daily Saxophone Etudes Volume 1
 
+## Author = Rex Djere
+## Description: A book of daily saxophone etudes for Eb saxophones.
+## Publication Details: When completed, this book will be published on Amazon.com.
+## Estimated Time to Completion: Publication Date Goal: No later than Friday, March 22, 2024.
+## License: This book is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license.](https://creativecommons.org/licenses/by/4.0/)
+
 ## Chapters:
 ### 00: Fundamental Scales and Modes
    * Week 00: [Fundamentals](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/00_week) 
