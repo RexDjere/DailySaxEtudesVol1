@@ -23,7 +23,7 @@
    * Week 10: [Various Jumps, Dives, andTtraces](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/10_week)
    * Week 11: [Melodic Arpeggio Etudes in 4/4 and 5/4 Time](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/11_week)
 ### 02: Chromatics
-   * Week 12: [Chromatic Madness 1: Grandiose Grapes](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/12_week)
+   * Week 12: [Chromatic Madness](https://github.com/RexDjere/DailySaxEtudesVol1/tree/main/12_week)
 ### 03: Combined Scales, Aprpeggios, and Chromatics
 ### 04: Rhythm Changes
 ### 05: Various Chord Changes
